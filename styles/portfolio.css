@@ -43,6 +43,7 @@
     background-image: url(../images/developer.png), url(../images/header_bg.png);
     background-repeat: no-repeat;
     background-position: top left, bottom right;
+    height: 837px;
 }
 
 /* Nav Style */
@@ -91,7 +92,7 @@ nav li a {
     font-size: 18px;
 }
 .banner-profile-pic {
-    width: 584px;
+    width: 725px;
 }
 
 /* Main Styles */
